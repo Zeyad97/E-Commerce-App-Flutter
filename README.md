@@ -1,4 +1,4 @@
-# 🎧 E-Commerce App for Electronics – Flutter + Firebase
+# 🎧 E-Commerce App for Electronics – Flutter + Firebase + Stripe (Payment Gateaway)
 
 [![Watch the Demo](https://img.youtube.com/vi/zAYBIg0TOOw/0.jpg)](https://youtu.be/zAYBIg0TOOw?si=m2IUFcd0JHm01yRE)
 
