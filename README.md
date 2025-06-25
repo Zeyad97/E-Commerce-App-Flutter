@@ -19,7 +19,7 @@ Features include:
 - 🧠 Onboarding for new users  
 - 🛠 Admin panel for managing products and orders  
 - 💾 Local storage with SharedPreferences  
-- 💳 Payment integration with Stripe *(optional)*
+- 💳 Payment integration with Stripe 
 
 ---
 
